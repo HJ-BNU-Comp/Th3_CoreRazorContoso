@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Th3_CoreRazorContoso", "Th3_CoreRazorContoso\Th3_CoreRazorContoso.csproj", "{0C43906F-5440-4722-A974-AE861DB102E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C43906F-5440-4722-A974-AE861DB102E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C43906F-5440-4722-A974-AE861DB102E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C43906F-5440-4722-A974-AE861DB102E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C43906F-5440-4722-A974-AE861DB102E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7102D7AE-15F3-4EAC-92F6-365ADF5929A4}
+	EndGlobalSection
+EndGlobal
